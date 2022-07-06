@@ -3,7 +3,7 @@
 
 **Hello to all dear programmers**👋🏻 
 
-*I'm a programmer's daughter*👩🏻‍💻
+*I'm a programmer's girl*👩🏻‍💻
 
 Welcome to my GitHub💙
 
