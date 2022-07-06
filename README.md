@@ -1,9 +1,9 @@
 
 
 
-**Hello to all dear programmers** 
+**Hello to all dear programmers**👋🏻 
 
-*I'm a programmer's daughter*
+*I'm a programmer's daughter*👩🏻‍💻
 
 Welcome to my GitHub💙
 If my repositories seem functional and attractive,
