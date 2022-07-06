@@ -4,8 +4,8 @@
 
 *I'm a programmer's girl👩🏻‍💻*
 
-_Welcome to my GitHub_💙
+**Welcome to my GitHub💙**
 
-If my repositories seem functional and attractive,
+**If my repositories seem functional and attractive,**
 
-please follow me🙌🏻 and hit the star⭐️
+**please follow me🙌🏻 and hit the star**⭐️
