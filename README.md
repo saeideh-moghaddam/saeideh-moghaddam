@@ -10,8 +10,6 @@
 
 **please follow me🙌🏻 and hit the star**⭐️
 
-[Saeideh-Moghaddam](https://saeideh-moghaddam.com/)
-
 
 <a href="https://github.com/saeideh-moghaddam">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeideh-moghaddam" />
