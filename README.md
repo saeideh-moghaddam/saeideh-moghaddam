@@ -1,10 +1,10 @@
 
 
-**Hello to all dear programmers**👋🏻 
+**Hello to all dear programmers👋**🏻 
 
 *I'm a programmer's girl👩🏻‍💻*
 
-Welcome to my GitHub💙
+~Welcome to my GitHub~💙
 
 If my repositories seem functional and attractive,
 
