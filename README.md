@@ -9,4 +9,4 @@ Welcome to my GitHub💙
 
 If my repositories seem functional and attractive,
 
-please follow me 🙌🏻 and hit the star🌟
+please follow me 🙌🏻 and hit the star ⭐️
