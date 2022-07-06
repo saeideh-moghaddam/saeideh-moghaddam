@@ -4,7 +4,7 @@
 
 *I'm a programmer's girl👩🏻‍💻*
 
-~Welcome to my GitHub~💙
+_Welcome to my GitHub_💙
 
 If my repositories seem functional and attractive,
 
