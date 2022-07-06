@@ -1,6 +1,6 @@
 
 
-**Hello to all dear programmers👋**🏻 
+**Hello to all dear programmers👋** 
 
 *I'm a programmer's girl👩🏻‍💻*
 
