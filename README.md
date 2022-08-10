@@ -10,6 +10,4 @@
 
 ---
 
-<p align=”center”>
-<a href=”<Your profile link>” target=”_blank” rel=”noreferrer”><img src=”<Url of the file in GitHub>" alt=”my banner”></a>
-</p>
+
