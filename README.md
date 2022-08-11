@@ -1,5 +1,5 @@
 
-![Solow Studios](https://user-images.githubusercontent.com/108235776/184153344-404ed292-e996-499c-989b-7ccc7b1b721b.svg)
+
 
 ---
 
