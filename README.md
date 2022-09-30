@@ -22,11 +22,7 @@
 ---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saeideh-moghaddam&theme=dark)](https://git.io/streak-stats)
 
----
 
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/108235776/193119057-1ec0858f-9bee-45d0-96ef-dd1d0b098902.gif" width="100"/>
-</div>
 
 
 
