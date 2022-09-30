@@ -10,7 +10,7 @@
 
 ---
 
-# 📊- : ***GitHub Status***
+# 📊-: ***GitHub Status***
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saeideh-moghaddam&theme=dark)](https://git.io/streak-stats)
 
