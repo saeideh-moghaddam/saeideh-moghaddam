@@ -5,11 +5,12 @@
 
 ---
 
+
 <img src="https://komarev.com/ghpvc/?username=saeideh-moghaddam&style=flat-square&color=blue" alt=""/>
 
 ---
 
-# 📊 ***GitHub Status***
+# 📊- : ***GitHub Status***
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saeideh-moghaddam&theme=dark)](https://git.io/streak-stats)
 
@@ -19,8 +20,6 @@
 
 <a href="https://github.com/saeideh-moghaddam">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saeideh-moghaddam&theme=dark&show_icons=true&count_private=true&include_all_commits=true" /></a>
-
-
 
 ---
 
