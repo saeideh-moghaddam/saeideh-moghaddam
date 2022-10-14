@@ -11,13 +11,13 @@
 
 # 📊 ***GitHub Status***
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saeideh-moghaddam&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saeideh-moghaddam&theme=tokyonight)](https://git.io/streak-stats)
 
 **<a href="https://github.com/saeideh-moghaddam">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeideh-moghaddam&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeideh-moghaddam&theme=tokyonight" />
 </a>**
 
 <a href="https://github.com/saeideh-moghaddam">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeideh-moghaddam&theme=dark&show_icons=true&count_private=true&include_all_commits=true" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=saeideh-moghaddam&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" /></a>
 
 ---
