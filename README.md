@@ -29,3 +29,6 @@ https://www.linkedin.com/in/saeideh-moghaddam-a1a854295/
 
 ***Telegram*** 
 https://t.me/Python_Part_By_Part
+
+***Aparat***
+https://www.aparat.com/v/enibxo0
